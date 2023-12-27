@@ -7,8 +7,10 @@
 3. Run the below commands inorder
 
 ---
+
 terraform init
 terraform validate
 terraform plan
 terraform apply
+
 ---
